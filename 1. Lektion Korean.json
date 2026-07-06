@@ -1,0 +1,567 @@
+[
+    {
+        "id": 1,
+        "lesson": 1,
+        "front": {
+            "german": "Papa"
+        },
+        "back": {
+            "korean": "아빠",
+            "pronunciation": "appa"
+        },
+        "category": ["Familie"]
+    },
+    {
+        "id": 2,
+        "lesson": 1,
+        "front": {
+            "german": "Mama"
+        },
+        "back": {
+            "korean": "엄마",
+            "pronunciation": "eomma"
+        },
+        "category": ["Familie"]
+    },
+    {
+        "id": 3,
+        "lesson": 1,
+        "front": {
+            "german": "Angst haben, fürchten"
+        },
+        "back": {
+            "korean": "두려워하다",
+            "pronunciation": "duryeowohada"
+        },
+        "category": ["Verben", "Gefühle"]
+    },
+    {
+        "id": 4,
+        "lesson": 1,
+        "front": {
+            "german": "Pferd"
+        },
+        "back": {
+            "korean": "말",
+            "pronunciation": "mal"
+        },
+        "category": ["Tiere", "Nomen"]
+    },
+    {
+        "id": 5,
+        "lesson": 1,
+        "front": {
+            "german": "kritisieren, beschuldigen, tadeln"
+        },
+        "back": {
+            "korean": "비난하다",
+            "pronunciation": "binanhada"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 6,
+        "lesson": 1,
+        "front": {
+            "german": "kaufen"
+        },
+        "back": {
+            "korean": "사다",
+            "pronunciation": "sada"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 7,
+        "lesson": 1,
+        "front": {
+            "german": "verkaufen"
+        },
+        "back": {
+            "korean": "팔다",
+            "pronunciation": "palda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 8,
+        "lesson": 1,
+        "front": {
+            "german": "der Reis"
+        },
+        "back": {
+            "korean": "쌀",
+            "pronunciation": "ssal"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 9,
+        "lesson": 1,
+        "front": {
+            "german": "das Essen"
+        },
+        "back": {
+            "korean": "음식",
+            "pronunciation": "eumsig"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 10,
+        "lesson": 1,
+        "front": {
+            "german": "gekochter Reis"
+        },
+        "back": {
+            "korean": "밥",
+            "pronunciation": "bap"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 11,
+        "lesson": 1,
+        "front": {
+            "german": "lieben"
+        },
+        "back": {
+            "korean": "사랑하다",
+            "pronunciation": "saranghadada"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 12,
+        "lesson": 1,
+        "front": {
+            "german": "Mama liebt Papa."
+        },
+        "back": {
+            "korean": "엄마는 아빠를 사랑해요.",
+            "pronunciation": "Eomma-neun appareul saranghaeyo."
+        },
+        "category": ["Sätze"]
+    },
+    {
+        "id": 13,
+        "lesson": 1,
+        "front": {
+            "german": "groß"
+        },
+        "back": {
+            "korean": "크다",
+            "pronunciation": "keuda"
+        },
+        "category": ["Adjektive", "Größe"]
+    },
+    {
+        "id": 14,
+        "lesson": 1,
+        "front": {
+            "german": "schlagen, attack, kämpfen"
+        },
+        "back": {
+            "korean": "치다",
+            "pronunciation": "chida"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 15,
+        "lesson": 1,
+        "front": {
+            "german": "fliegen"
+        },
+        "back": {
+            "korean": "날다",
+            "pronunciation": "nalda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 16,
+        "lesson": 1,
+        "front": {
+            "german": "er, ihm, sein, seines"
+        },
+        "back": {
+            "korean": "그",
+            "pronunciation": "geu"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 17,
+        "lesson": 1,
+        "front": {
+            "german": "sie, ihr, ihrs"
+        },
+        "back": {
+            "korean": "그녀",
+            "pronunciation": "geunyeo"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 18,
+        "lesson": 1,
+        "front": {
+            "german": "die Suppe, das heiße Wasser, die Brühe"
+        },
+        "back": {
+            "korean": "국",
+            "pronunciation": "guk"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 19,
+        "lesson": 1,
+        "front": {
+            "german": "der Zucker, die Süßigkeit"
+        },
+        "back": {
+            "korean": "설탕",
+            "pronunciation": "seol-tang"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 20,
+        "lesson": 1,
+        "front": {
+            "german": "sich hinlegen"
+        },
+        "back": {
+            "korean": "누워",
+            "pronunciation": "nuwo"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 21,
+        "lesson": 1,
+        "front": {
+            "german": "heiß, brennend heiß"
+        },
+        "back": {
+            "korean": "뜨겁다",
+            "pronunciation": "tteugeopda"
+        },
+        "category": ["Adjektive"]
+    },
+    {
+        "id": 22,
+        "lesson": 1,
+        "front": {
+            "german": "du"
+        },
+        "back": {
+            "korean": "너",
+            "pronunciation": "neo"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 23,
+        "lesson": 1,
+        "front": {
+            "german": "das Aluminium (chemisches Symbol)"
+        },
+        "back": {
+            "korean": "알루미늄",
+            "pronunciation": "alluminyum"
+        },
+        "category": ["Nomen", "Chemie"]
+    },
+    {
+        "id": 24,
+        "lesson": 1,
+        "front": {
+            "german": "Frau"
+        },
+        "back": {
+            "korean": "여성",
+            "pronunciation": "yeoseong"
+        },
+        "category": ["Adjektive", "Geschlecht"]
+    },
+    {
+        "id": 25,
+        "lesson": 1,
+        "front": {
+            "german": "Mann"
+        },
+        "back": {
+            "korean": "남성",
+            "pronunciation": "namseong"
+        },
+        "category": ["Adjektive", "Geschlecht"]
+    },
+    {
+        "id": 26,
+        "lesson": 1,
+        "front": {
+            "german": "kommen, ankommen, zurückkehren"
+        },
+        "back": {
+            "korean": "오다",
+            "pronunciation": "oda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 27,
+        "lesson": 1,
+        "front": {
+            "german": "der Esel"
+        },
+        "back": {
+            "korean": "당나귀",
+            "pronunciation": "dangnagwi"
+        },
+        "category": ["Nomen", "Tiere"]
+    },
+    {
+        "id": 28,
+        "lesson": 1,
+        "front": {
+            "german": "trinken"
+        },
+        "back": {
+            "korean": "마시다",
+            "pronunciation": "masida"
+        },
+        "category": ["Verben", "Essen & Trinken", "Getränke"]
+    },
+    {
+        "id": 29,
+        "lesson": 1,
+        "front": {
+            "german": "geben"
+        },
+        "back": {
+            "korean": "주다",
+            "pronunciation": "juda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 30,
+        "lesson": 1,
+        "front": {
+            "german": "Papa gibt Mama Suppe"
+        },
+        "back": {
+            "korean": "아빠는 엄마에게 국을 줍니다.",
+            "pronunciation": "Appa-neun eomma-ege gug-eul jumnida."
+        },
+        "category": ["Sätze"]
+    },
+    {
+        "id": 31,
+        "lesson": 1,
+        "front": {
+            "german": "durstig"
+        },
+        "back": {
+            "korean": "목이 마르다",
+            "pronunciation": "mogi mareuda"
+        },
+        "category": ["Adjektive", "Empfindung", "Getränke"]
+    },
+    {
+        "id": 32,
+        "lesson": 1,
+        "front": {
+            "german": "schwarz (Farbe)"
+        },
+        "back": {
+            "korean": "검다",
+            "pronunciation": "geomda"
+        },
+        "category": ["Adjektive", "Farben"]
+    },
+    {
+        "id": 33,
+        "lesson": 1,
+        "front": {
+            "german": "schwarzes Pferd"
+        },
+        "back": {
+            "korean": "검은 말",
+            "pronunciation": "geomeun mal"
+        },
+        "category": ["Nomen", "Tiere", "Farben"]
+    },
+    {
+        "id": 34,
+        "lesson": 1,
+        "front": {
+            "german": "Coca-Cola"
+        },
+        "back": {
+            "korean": "코카콜라",
+            "pronunciation": "koka-kolla"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 35,
+        "lesson": 1,
+        "front": {
+            "german": "ihr, Sie alle, meine Damen und Herren"
+        },
+        "back": {
+            "korean": "여러분",
+            "pronunciation": "yeoreobun"
+        },
+        "category": ["Pronomen", "Höflichkeit"]
+    },
+    {
+        "id": 36,
+        "lesson": 1,
+        "front": {
+            "german": "gut"
+        },
+        "back": {
+            "korean": "좋은",
+            "pronunciation": "joh-eun"
+        },
+        "category": ["Adjektive"]
+    },
+    {
+        "id": 37,
+        "lesson": 1,
+        "front": {
+            "german": "Guten Tag"
+        },
+        "back": {
+            "korean": "안녕하세요!",
+            "pronunciation": "annyeonghaseyo!"
+        },
+        "category": ["Sätze", "Begrüßung"]
+    },
+    {
+        "id": 38,
+        "lesson": 1,
+        "front": {
+            "german": "schmeckt gut "
+        },
+        "back": {
+            "korean": "맛있다 ",
+            "pronunciation": "mas-issda "
+        },
+        "category": ["Adjektive", "Essen & Trinken"]
+    },
+
+    {
+        "id": 39,
+        "lesson": 1,
+        "front": {
+            "german": "rot (Farbe)"
+        },
+        "back": {
+            "korean": "빨간색",
+            "pronunciation": "ppalgansaeg"
+        },
+        "category": ["Adjektive", "Farben"]
+    },
+    {
+        "id": 40,
+        "lesson": 1,
+        "front": {
+            "german": "gelb (Farbe)"
+        },
+        "back": {
+            "korean": "노란색",
+            "pronunciation": "nolansaeg"
+        },
+        "category": ["Adjektive", "Farben"]
+    },
+    {
+        "id": 41,
+        "lesson": 1,
+        "front": {
+            "german": "die Maschine"
+        },
+        "back": {
+            "korean": "기계",
+            "pronunciation": "gigye"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 42,
+        "lesson": 1,
+        "front": {
+            "german": "das Flugzeug"
+        },
+        "back": {
+            "korean": "비행기",
+            "pronunciation": "bihaenggi"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 43,
+        "lesson": 1,
+        "front": {
+            "german": "Alkohol"
+        },
+        "back": {
+            "korean": "술",
+            "pronunciation": "sul"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 44,
+        "lesson": 1,
+        "front": {
+            "german": "sehen, anschauen"
+        },
+        "back": {
+            "korean": "보다",
+            "pronunciation": "boda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 45,
+        "lesson": 1,
+        "front": {
+            "german": "der Rotwein"
+        },
+        "back": {
+            "korean": "레드와인",
+            "pronunciation": "ledeuwain"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 46,
+        "lesson": 1,
+        "front": {
+            "german": "fahren"
+        },
+        "back": {
+            "korean": "운전하다",
+            "pronunciation": "unjeonhada"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 47,
+        "lesson": 1,
+        "front": {
+            "german": "Pferd reiten"
+        },
+        "back": {
+            "korean": "말을 타다",
+            "pronunciation": "mareul tada"
+        },
+        "category": ["Verben"]
+    }
+]
