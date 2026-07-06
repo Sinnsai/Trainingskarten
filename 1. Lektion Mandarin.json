@@ -1,0 +1,578 @@
+[
+    {
+        "id": 1,
+        "lesson": 1,
+        "front":{ 
+            "german": "Papa"
+        },
+        "back": {
+            "mandarin": "爸爸",
+            "pinyin": "bàba"
+        },
+    "category": ["Familie"]
+    },
+    {
+        "id": 2,
+        "lesson": 1,
+        "front":{ 
+            "german": "Mama"
+        },
+        "back": {
+            "mandarin": "妈妈",
+            "pinyin": "māma"
+        },
+    "category": ["Familie"]
+    },  
+    {
+        "id": 3,
+        "lesson": 1,
+        "front":{ 
+            "german": "Angst haben, fürchten"
+        },
+        "back": {
+            "mandarin": "怕",
+            "pinyin": "pà"
+        },
+    "category": ["Verben", "Gefühle"]
+    }, 
+    {
+        "id": 4,
+        "lesson": 1,
+        "front":{ 
+            "german": "Pferd"
+        },
+        "back": {
+            "mandarin": "马",
+            "pinyin": "mǎ"
+        },
+    "category": ["Tiere", "Nomen"]
+    },   
+    {
+        "id": 5,
+        "lesson": 1,
+        "front":{ 
+            "german": "schimpfen, beschuldigen, beleidigen"
+        },
+        "back": {
+            "mandarin": "骂",
+            "pinyin": "mà"
+        },
+    "category":["Verben"]
+    },   
+ {
+        "id": 6,
+        "lesson": 1,
+        "front": {
+            "german": "kaufen, bestechen (bribe), überzeugen (persuade)"
+        },
+        "back": {
+            "mandarin": "买",
+            "pinyin": "mǎi"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 7,
+        "lesson": 1,
+        "front": {
+            "german": "verkaufen, verraten (betrayal)"
+        },
+        "back": {
+            "mandarin": "卖",
+            "pinyin": "mài"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 8,
+        "lesson": 1,
+        "front": {
+            "german": "der Reis"
+        },
+        "back": {
+            "mandarin": "米",
+            "pinyin": "mǐ"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 9,
+        "lesson": 1,
+        "front": {
+            "german": "das Essen, die Mahlzeit, die ...-Küche"
+        },
+        "back": {
+            "mandarin": "饭",
+            "pinyin": "fàn"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 10,
+        "lesson": 1,
+        "front": {
+            "german": "gekochter Reis"
+        },
+        "back": {
+            "mandarin": "米饭",
+            "pinyin": "mǐfàn"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 11,
+        "lesson": 1,
+        "front": {
+            "german": "lieben, gern haben, mögen"
+        },
+        "back": {
+            "mandarin": "爱",
+            "pinyin": "ài"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 12,
+        "lesson": 1,
+        "front": {
+            "german": "Mama liebt Papa."
+        },
+        "back": {
+            "mandarin": "妈妈 爱 爸爸。",
+            "pinyin": "māma ài bàba."
+        },
+        "category":["Sätze"]
+    },
+    {
+        "id": 13,
+        "lesson": 1,
+        "front": {
+            "german": "groß"
+        },
+        "back": {
+            "mandarin": "大",
+            "pinyin": "dà"
+        },
+        "category": ["Adjektive", "Größe"]
+    },
+    {
+        "id": 14,
+        "lesson": 1,
+        "front": {
+            "german": "schlagen, attack, kämpfen"
+        },
+        "back": {
+            "mandarin": "打",
+            "pinyin": "dǎ"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 15,
+        "lesson": 1,
+        "front": {
+            "german": "fliegen"
+        },
+        "back": {
+            "mandarin": "飞",
+            "pinyin": "fēi"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 16,
+        "lesson": 1,
+        "front": {
+            "german": "er, ihm, sein, seines"
+        },
+        "back": {
+            "mandarin": "他",
+            "pinyin": "tā"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 17,
+        "lesson": 1,
+        "front": {
+            "german": "sie, ihr, ihrs"
+        },
+        "back": {
+            "mandarin": "她",
+            "pinyin": "tā"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 18,
+        "lesson": 1,
+        "front": {
+            "german": "die Suppe, das heiße Wasser, die Brühe"
+        },
+        "back": {
+            "mandarin": "汤",
+            "pinyin": "tāng"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 19,
+        "lesson": 1,
+        "front": {
+            "german": "der Zucker, die Süßigkeit"
+        },
+        "back": {
+            "mandarin": "糖",
+            "pinyin": "táng"
+        },
+        "category": ["Nomen", "Essen"]
+    },
+    {
+        "id": 20,
+        "lesson": 1,
+        "front": {
+            "german": "sich hinlegen"
+        },
+        "back": {
+            "mandarin": "躺",
+            "pinyin": "tǎng"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 21,
+        "lesson": 1,
+        "front": {
+            "german": "glühend heiß, verbrennen"
+        },
+        "back": {
+            "mandarin": "烫",
+            "pinyin": "tàng"
+        },
+        "category": ["Adjektive"]
+    },
+    {
+        "id": 22,
+        "lesson": 1,
+        "front": {
+            "german": "du"
+        },
+        "back": {
+            "mandarin": "你",
+            "pinyin": "nǐ"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 23,
+        "lesson": 1,
+        "front": {
+            "german": "das Aluminium (chemisches Symbol)"
+        },
+        "back": {
+            "mandarin": "铝",
+            "pinyin": "lǚ"
+        },
+        "category": ["Nomen", "Chemie"]
+    },
+    {
+        "id": 24,
+        "lesson": 1,
+        "front": {
+            "german": "weiblich, Frau, feminin"
+        },
+        "back": {
+            "mandarin": "女",
+            "pinyin": "nǚ"
+        },
+        "category": ["Adjektive", "Geschlecht"]
+    },
+    {
+        "id": 25,
+        "lesson": 1,
+        "front": {
+            "german": "männlich, ein Mann, ein Junge, ein Sohn"
+        },
+        "back": {
+            "mandarin": "男",
+            "pinyin": "nán"
+        },
+        "category": ["Adjektive", "Geschlecht"]
+    },
+    {
+        "id": 26,
+        "lesson": 1,
+        "front": {
+            "german": "kommen, ankommen, zurückkehren"
+        },
+        "back": {
+            "mandarin": "来",
+            "pinyin": "lái"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 27,
+        "lesson": 1,
+        "front": {
+            "german": "der Esel"
+        },
+        "back": {
+            "mandarin": "驴",
+            "pinyin": "lǘ"
+        },
+        "category": ["Nomen", "Tiere"]
+    },
+    {
+        "id": 28,
+        "lesson": 1,
+        "front": {
+            "german": "trinken"
+        },
+        "back": {
+            "mandarin": "喝",
+            "pinyin": "hē"
+        },
+        "category": ["Verben", "Essen & Trinken", "Getränke"]
+    },
+    {
+        "id": 29,
+        "lesson": 1,
+        "front": {
+            "german": "geben"
+        },
+        "back": {
+            "mandarin": "给",
+            "pinyin": "gěi"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 30,
+        "lesson": 1,
+        "front": {
+            "german": "Papa gibt Mama Suppe"
+        },
+        "back": {
+            "mandarin": "爸爸 给 妈妈 汤。",
+            "pinyin": "bàba gěi māma tāng."
+        },
+        "category": ["Sätze"]
+    },
+    {
+        "id": 31,
+        "lesson": 1,
+        "front": {
+            "german": "durstig"
+        },
+        "back": {
+            "mandarin": "渴",
+            "pinyin": "kě"
+        },
+        "category": ["Adjektive", "Emotionen", "Getränke"]
+    },
+    {
+        "id": 32,
+        "lesson": 1,
+        "front": {
+            "german": "schwarz (Farbe), Evil, dunkel, böse, unheimlich, düster"
+        },
+        "back": {
+            "mandarin": "黑",
+            "pinyin": "hēi"
+        },
+        "category": ["Adjektive", "Farben"]
+    },
+    {
+        "id": 33,
+        "lesson": 1,
+        "front": {
+            "german": "schwarzes Pferd"
+        },
+        "back": {
+            "mandarin": "黑马",
+            "pinyin": "hēi mǎ"
+        },
+        "category": ["Nomen", "Tiere", "Farben"]
+    },
+    {
+        "id": 34,
+        "lesson": 1,
+        "front": {
+            "german": "Coca-Cola"
+        },
+        "back": {
+            "mandarin": "可口可乐",
+            "pinyin": "kěkǒukělè"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 35,
+        "lesson": 1,
+        "front": {
+            "german": "Sie (Höflichkeitsform)"
+        },
+        "back": {
+            "mandarin": "您",
+            "pinyin": "nín"
+        },
+        "category": ["Pronomen", "Höflichkeit"]
+    },
+    {
+        "id": 36,
+        "lesson": 1,
+        "front": {
+            "german": "gut, mögen, lieben, schön"
+        },
+        "back": {
+            "mandarin": "好",
+            "pinyin": "hǎo"
+        },
+        "category": ["Adjektive"]
+    },
+    {
+        "id": 37,
+        "lesson": 1,
+        "front": {
+            "german": "Guten Tag"
+        },
+        "back": {
+            "mandarin": "您好！",
+            "pinyin": "Nín hǎo!"
+        },
+        "category": ["Sätze", "Begrüßung"]
+    },
+    {
+        "id": 38,
+        "lesson": 1,
+        "front": {
+            "german": "schmeckt gut (Getränk)"
+        },
+        "back": {
+            "mandarin": "好喝",
+            "pinyin": "hǎo hē"
+        },
+        "category": ["Adjektive", "Essen & Trinken", "Getränke"]
+    },
+    {
+        "id": 39,
+        "lesson": 1,
+        "front": {
+            "german": "schmeckt gut (Essen)"
+        },
+        "back": {
+            "mandarin": "好吃",
+            "pinyin": "hǎo chī"
+        },
+        "category": ["Adjektive", "Essen & Trinken", "Essen"]
+    },
+    {
+        "id": 40,
+        "lesson": 1,
+        "front": {
+            "german": "rot (Farbe)"
+        },
+        "back": {
+            "mandarin": "红",
+            "pinyin": "hóng"
+        },
+        "category": ["Adjektive", "Farben"]
+    },
+    {
+        "id": 41,
+        "lesson": 1,
+        "front": {
+            "german": "gelb (Farbe)"
+        },
+        "back": {
+            "mandarin": "黄",
+            "pinyin": "huáng"
+        },
+        "category": ["Adjektive", "Farben"]
+    },
+    {
+        "id": 42,
+        "lesson": 1,
+        "front": {
+            "german": "die Maschine"
+        },
+        "back": {
+            "mandarin": "机",
+            "pinyin": "jī"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 43,
+        "lesson": 1,
+        "front": {
+            "german": "das Flugzeug"
+        },
+        "back": {
+            "mandarin": "飞机",
+            "pinyin": "fēijī"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 44,
+        "lesson": 1,
+        "front": {
+            "german": "alkoholisches Getränk, Longdrink"
+        },
+        "back": {
+            "mandarin": "酒",
+            "pinyin": "jiǔ"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 45,
+        "lesson": 1,
+        "front": {
+            "german": "sehen, treffen"
+        },
+        "back": {
+            "mandarin": "见",
+            "pinyin": "jiàn"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 46,
+        "lesson": 1,
+        "front": {
+            "german": "der Rotwein"
+        },
+        "back": {
+            "mandarin": "红酒",
+            "pinyin": "hóngjiǔ"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 47,
+        "lesson": 1,
+        "front": {
+            "german": "reiten"
+        },
+        "back": {
+            "mandarin": "骑",
+            "pinyin": "qí"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 48,
+        "lesson": 1,
+        "front": {
+            "german": "Pferd reiten"
+        },
+        "back": {
+            "mandarin": "骑马",
+            "pinyin": "qí mǎ"
+        },
+        "category": ["Verben"]
+    } 
+]
