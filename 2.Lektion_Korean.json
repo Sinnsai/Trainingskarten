@@ -1,0 +1,566 @@
+[
+    {
+        "id": 96,
+        "lesson": 2,
+        "front": {
+            "german": "das Geld, die Währung, Münzen"
+        },
+        "back": {
+            "korean": "돈",
+            "pronunciation": "don"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 97,
+        "lesson": 2,
+        "front": {
+            "german": "waschen, spülen, reinigen, säubern"
+        },
+        "back": {
+            "korean": "세탁하다",
+            "pronunciation": "setalhada"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 98,
+        "lesson": 2,
+        "front": {
+            "german": "Geld waschen"
+        },
+        "back": {
+            "korean": "돈을 세탁하다",
+            "pronunciation": "don-eul setalhada"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 99,
+        "lesson": 2,
+        "front": {
+            "german": "die Kleidung, die Anziehsachen"
+        },
+        "back": {
+            "korean": "옷",
+            "pronunciation": "ot"
+        },
+        "category": ["Nomen", "Kleidung"]
+    },
+    {
+        "id": 100,
+        "lesson": 2,
+        "front": {
+            "german": "die Waschmaschine"
+        },
+        "back": {
+            "korean": "세탁기",
+            "pronunciation": "setalgi"
+        },
+        "category": ["Nomen", "Haushalt"]
+    },
+    {
+        "id": 101,
+        "lesson": 2,
+        "front": {
+            "german": "Danke"
+        },
+        "back": {
+            "korean": "감사합니다",
+            "pronunciation": "gamsahamnida"
+        },
+        "category": ["Sätze", "Höflichkeit"]
+    },
+    {
+        "id": 102,
+        "lesson": 2,
+        "front": {
+            "german": "schmutzig, dreckig"
+        },
+        "back": {
+            "korean": "더러워하다",
+            "pronunciation": "deoreowohada"
+        },
+        "category": ["Adjektive"]
+    },
+    {
+        "id": 103,
+        "lesson": 2,
+        "front": {
+            "german": "essen"
+        },
+        "back": {
+            "korean": "먹다",
+            "pronunciation": "meokda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 104,
+        "lesson": 2,
+        "front": {
+            "german": "das Fahrzeug, das Auto"
+        },
+        "back": {
+            "korean": "차",
+            "pronunciation": "cha"
+        },
+        "category": ["Nomen", "Transport"]
+    },
+    {
+        "id": 105,
+        "lesson": 2,
+        "front": {
+            "german": "das Feuer"
+        },
+        "back": {
+            "korean": "불",
+            "pronunciation": "bul"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 106,
+        "lesson": 2,
+        "front": {
+            "german": "die Eisenbahn"
+        },
+        "back": {
+            "korean": "기차",
+            "pronunciation": "gich'a"
+        },
+        "category": ["Nomen", "Transport"]
+    },
+    {
+        "id": 107,
+        "lesson": 2,
+        "front": {
+            "german": "Der Dampf, die Luft, das Gas"
+        },
+        "back": {
+            "korean": "기",
+            "pronunciation": "gi"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 108,
+        "lesson": 2,
+        "front": {
+            "german": "das Auto, das Fahrzeug"
+        },
+        "back": {
+            "korean": "자동차",
+            "pronunciation": "jagajiche"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 109,
+        "lesson": 2,
+        "front": {
+            "german": "Die Kacke, Der Stuhlgang"
+        },
+        "back": {
+            "korean": "변기",
+            "pronunciation": "byeon-gi"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 110,
+        "lesson": 2,
+        "front": {
+            "german": "das, dieses, dieser, diese"
+        },
+        "back": {
+            "korean": "이",
+            "pronunciation": "i"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 111,
+        "lesson": 2,
+        "front": {
+            "german": "das Schwein"
+        },
+        "back": {
+            "korean": "돼지",
+            "pronunciation": "dwaeji"
+        },
+        "category": ["Tiere", "Nomen"]
+    },
+    {
+        "id": 112,
+        "lesson": 2,
+        "front": {
+            "german": "edel, kostbar, der Schatz, selten"
+        },
+        "back": {
+            "korean": "보물",
+            "pronunciation": "bomul"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 113,
+        "lesson": 2,
+        "front": {
+            "german": "BMW"
+        },
+        "back": {
+            "korean": "BMW",
+            "pronunciation": "BMW"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 114,
+        "lesson": 2,
+        "front": {
+            "german": "der Tee"
+        },
+        "back": {
+            "korean": "차",
+            "pronunciation": "cha"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 115,
+        "lesson": 2,
+        "front": {
+            "german": "schwarzer Tee"
+        },
+        "back": {
+            "korean": "검은 차",
+            "pronunciation": "geomeun cha"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 116,
+        "lesson": 2,
+        "front": {
+            "german": "König, königlich, Herrscher, Familienname"
+        },
+        "back": {
+            "korean": "왕",
+            "pronunciation": "wang"
+        },
+        "category": ["Nomen", "Personen"]
+    },
+    {
+        "id": 117,
+        "lesson": 2,
+        "front": {
+            "german": "Jade, Edelstein, Juwel"
+        },
+        "back": {
+            "korean": "옥",
+            "pronunciation": "ok"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 118,
+        "lesson": 2,
+        "front": {
+            "german": "sein, ist"
+        },
+        "back": {
+            "korean": "이다",
+            "pronunciation": "ida"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 119,
+        "lesson": 2,
+        "front": {
+            "german": "18"
+        },
+        "back": {
+            "korean": "십팔",
+            "pronunciation": "sibpal"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 120,
+        "lesson": 2,
+        "front": {
+            "german": "80"
+        },
+        "back": {
+            "korean": "팔십",
+            "pronunciation": "palsip"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 121,
+        "lesson": 2,
+        "front": {
+            "german": "98"
+        },
+        "back": {
+            "korean": "구십팔",
+            "pronunciation": "gusippal"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 122,
+        "lesson": 2,
+        "front": {
+            "german": "86"
+        },
+        "back": {
+            "korean": "팔십육",
+            "pronunciation": "palsipyuk"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 123,
+        "lesson": 2,
+        "front": {
+            "german": "das Buch, der Brief, das Skript, das Dokument"
+        },
+        "back": {
+            "korean": "책",
+            "pronunciation": "chaek"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 124,
+        "lesson": 2,
+        "front": {
+            "german": "Das ist..."
+        },
+        "back": {
+            "korean": "이것은...",
+            "pronunciation": "igeoseun..."
+        },
+        "category": ["Sätze", "Begrüßung"]
+    },
+    {
+        "id": 125,
+        "lesson": 2,
+        "front": {
+            "german": "das Wasser"
+        },
+        "back": {
+            "korean": "물",
+            "pronunciation": "mul"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 126,
+        "lesson": 2,
+        "front": {
+            "german": "die Hand"
+        },
+        "back": {
+            "korean": "손",
+            "pronunciation": "son"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 127,
+        "lesson": 2,
+        "front": {
+            "german": "das Handy"
+        },
+        "back": {
+            "korean": "휴대폰",
+            "pronunciation": "hyudaepon"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 128,
+        "lesson": 2,
+        "front": {
+            "german": "(aktiv) schauen, (aktiv) sehen"
+        },
+        "back": {
+            "korean": "보다",
+            "pronunciation": "boda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 129,
+        "lesson": 2,
+        "front": {
+            "german": "ein Buch lesen"
+        },
+        "back": {
+            "korean": "책을 읽다",
+            "pronunciation": "cha-eul illda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 130,
+        "lesson": 2,
+        "front": {
+            "german": "Handy schauen"
+        },
+        "back": {
+            "korean": "휴대폰을 보다",
+            "pronunciation": "hyudaeponeul boda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 131,
+        "lesson": 2,
+        "front": {
+            "german": "wieder, noch einmal, erneut"
+        },
+        "back": {
+            "korean": "다시",
+            "pronunciation": "dasi"
+        },
+        "category": ["Adverb"]
+    },
+    {
+        "id": 132,
+        "lesson": 2,
+        "front": {
+            "german": "Auf Wiedersehen!"
+        },
+        "back": {
+            "korean": "안녕히 계세요!",
+            "pronunciation": "annyeonghi gyeseyo!"
+        },
+        "category": ["Sätze", "Verabschiedung"]
+    },
+    {
+        "id": 133,
+        "lesson": 2,
+        "front": {
+            "german": "3"
+        },
+        "back": {
+            "korean": "삼",
+            "pronunciation": "sam"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 134,
+        "lesson": 2,
+        "front": {
+            "german": "4"
+        },
+        "back": {
+            "korean": "사",
+            "pronunciation": "sa"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 135,
+        "lesson": 2,
+        "front": {
+            "german": "der Schirm, der Regenschirm"
+        },
+        "back": {
+            "korean": "우산",
+            "pronunciation": "usan"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 136,
+        "lesson": 2,
+        "front": {
+            "german": "sterben"
+        },
+        "back": {
+            "korean": "죽다",
+            "pronunciation": "jukda"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 137,
+        "lesson": 2,
+        "front": {
+            "german": "der Fisch"
+        },
+        "back": {
+            "korean": "생선",
+            "pronunciation": "saengseon"
+        },
+        "category": ["Tiere", "Nomen"]
+    },
+    {
+        "id": 138,
+        "lesson": 2,
+        "front": {
+            "german": "Der Regen"
+        },
+        "back": {
+            "korean": "비",
+            "pronunciation": "bi"
+        },
+        "category": ["Nomen", "Wetter"]
+    },
+    {
+        "id": 139,
+        "lesson": 2,
+        "front": {
+            "german": "haben, besitzen, vorhanden sein"
+        },
+        "back": {
+            "korean": "가지다",
+            "pronunciation": "gajida"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 140,
+        "lesson": 2,
+        "front": {
+            "german": "5"
+        },
+        "back": {
+            "korean": "오",
+            "pronunciation": "o"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 141,
+        "lesson": 2,
+        "front": {
+            "german": "ich, mir, mich"
+        },
+        "back": {
+            "korean": "나",
+            "pronunciation": "na"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 142,
+        "lesson": 2,
+        "front": {
+            "german": "Ich esse Fisch."
+        },
+        "back": {
+            "korean": "나는 생선을 먹어요.",
+            "pronunciation": "Naneun saengseoneul meogeoyo."
+        },
+        "category": ["Sätze", "Essen"]
+    }
+]
