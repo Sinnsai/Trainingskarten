@@ -1,0 +1,602 @@
+[
+    {
+        "id": 143,
+        "lesson": 2,
+        "front": {
+            "german": "das Geld, die Währung, Münzen"
+        },
+        "back": {
+            "mandarin": "钱",
+            "pinyin": "qián"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 144,
+        "lesson": 2,
+        "front": {
+            "german": "waschen, spülen, reinigen, säubern"
+        },
+        "back": {
+            "mandarin": "洗",
+            "pinyin": "xǐ"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 145,
+        "lesson": 2,
+        "front": {
+            "german": "Geld waschen"
+        },
+        "back": {
+            "mandarin": "洗钱",
+            "pinyin": "xǐ qián"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 146,
+        "lesson": 2,
+        "front": {
+            "german": "die Kleidung, die Anziehsachen"
+        },
+        "back": {
+            "mandarin": "衣",
+            "pinyin": "yī"
+        },
+        "category": ["Nomen", "Kleidung"]
+    },
+    {
+        "id": 147,
+        "lesson": 2,
+        "front": {
+            "german": "die Waschmaschine"
+        },
+        "back": {
+            "mandarin": "洗衣机",
+            "pinyin": "xǐ yī jī"
+        },
+        "category": ["Nomen", "Haushalt"]
+    },
+    {
+        "id": 148,
+        "lesson": 2,
+        "front": {
+            "german": "Danke"
+        },
+        "back": {
+            "mandarin": "谢谢",
+            "pinyin": "xiè xie"
+        },
+        "category": ["Sätze", "Höflichkeit"]
+    },
+    {
+        "id": 149,
+        "lesson": 2,
+        "front": {
+            "german": "schmutzig, dreckig"
+        },
+        "back": {
+            "mandarin": "脏",
+            "pinyin": "zāng"
+        },
+        "category": ["Adjektive"]
+    },
+    {
+        "id": 150,
+        "lesson": 2,
+        "front": {
+            "german": "essen"
+        },
+        "back": {
+            "mandarin": "吃",
+            "pinyin": "chī"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 151,
+        "lesson": 2,
+        "front": {
+            "german": "das Fahrzeug, das Auto, der Wagen"
+        },
+        "back": {
+            "mandarin": "车",
+            "pinyin": "chē"
+        },
+        "category": ["Nomen", "Transport"]
+    },
+    {
+        "id": 152,
+        "lesson": 2,
+        "front": {
+            "german": "das Feuer"
+        },
+        "back": {
+            "mandarin": "火",
+            "pinyin": "huǒ"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 153,
+        "lesson": 2,
+        "front": {
+            "german": "die Eisenbahn, der Zug"
+        },
+        "back": {
+            "mandarin": "火车",
+            "pinyin": "huǒ chē"
+        },
+        "category": ["Nomen", "Transport"]
+    },
+    {
+        "id": 154,
+        "lesson": 2,
+        "front": {
+            "german": "der Dampf, die Luft, das Gas"
+        },
+        "back": {
+            "mandarin": "气",
+            "pinyin": "qì"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 155,
+        "lesson": 2,
+        "front": {
+            "german": "das Auto, das Fahrzeug"
+        },
+        "back": {
+            "mandarin": "汽车",
+            "pinyin": "qì chē"
+        },
+        "category": ["Nomen", "Transport"]
+    },
+    {
+        "id": 156,
+        "lesson": 2,
+        "front": {
+            "german": "die Kacke, der Stuhlgang"
+        },
+        "back": {
+            "mandarin": "屎",
+            "pinyin": "shǐ"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 157,
+        "lesson": 2,
+        "front": {
+            "german": "das, dieses, dieser, diese"
+        },
+        "back": {
+            "mandarin": "这",
+            "pinyin": "zhè"
+        },
+        "category": ["Pronomen"]
+    },
+    {
+        "id": 158,
+        "lesson": 2,
+        "front": {
+            "german": "das Schwein"
+        },
+        "back": {
+            "mandarin": "猪",
+            "pinyin": "zhū"
+        },
+        "category": ["Tiere", "Nomen"]
+    },
+    {
+        "id": 159,
+        "lesson": 2,
+        "front": {
+            "german": "edel, kostbar, der Schatz, selten"
+        },
+        "back": {
+            "mandarin": "宝",
+            "pinyin": "bǎo"
+        },
+        "category": ["Nomen", "Adjektive"]
+    },
+    {
+        "id": 160,
+        "lesson": 2,
+        "front": {
+            "german": "BMW"
+        },
+        "back": {
+            "mandarin": "宝马",
+            "pinyin": "bǎo mǎ"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 161,
+        "lesson": 2,
+        "front": {
+            "german": "der Tee"
+        },
+        "back": {
+            "mandarin": "茶",
+            "pinyin": "chá"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 162,
+        "lesson": 2,
+        "front": {
+            "german": "schwarzer Tee"
+        },
+        "back": {
+            "mandarin": "红茶",
+            "pinyin": "hóng chá"
+        },
+        "category": ["Nomen", "Getränke"]
+    },
+    {
+        "id": 163,
+        "lesson": 2,
+        "front": {
+            "german": "König, königlich, Herrscher, Familienname"
+        },
+        "back": {
+            "mandarin": "王",
+            "pinyin": "wáng"
+        },
+        "category": ["Nomen", "Personen"]
+    },
+    {
+        "id": 164,
+        "lesson": 2,
+        "front": {
+            "german": "Jade, Edelstein, Juwel"
+        },
+        "back": {
+            "mandarin": "玉",
+            "pinyin": "yù"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 165,
+        "lesson": 2,
+        "front": {
+            "german": "sein, ist, bin, bist"
+        },
+        "back": {
+            "mandarin": "是",
+            "pinyin": "shì"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 166,
+        "lesson": 2,
+        "front": {
+            "german": "18"
+        },
+        "back": {
+            "mandarin": "十八",
+            "pinyin": "shí bā"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 167,
+        "lesson": 2,
+        "front": {
+            "german": "80"
+        },
+        "back": {
+            "mandarin": "八十",
+            "pinyin": "bā shí"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 168,
+        "lesson": 2,
+        "front": {
+            "german": "98"
+        },
+        "back": {
+            "mandarin": "九十八",
+            "pinyin": "jiǔ shí bā"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 169,
+        "lesson": 2,
+        "front": {
+            "german": "86"
+        },
+        "back": {
+            "mandarin": "八十六",
+            "pinyin": "bā shí liù"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 170,
+        "lesson": 2,
+        "front": {
+            "german": "das Buch, der Brief, das Skript, das Dokument"
+        },
+        "back": {
+            "mandarin": "书",
+            "pinyin": "shū"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 171,
+        "lesson": 2,
+        "front": {
+            "german": "Das ist..."
+        },
+        "back": {
+            "mandarin": "这是...",
+            "pinyin": "zhè shì..."
+        },
+        "category": ["Sätze"]
+    },
+    {
+        "id": 172,
+        "lesson": 2,
+        "front": {
+            "german": "Das ist ein Kaffee."
+        },
+        "back": {
+            "mandarin": "这是咖啡。",
+            "pinyin": "zhè shì kā fēi."
+        },
+        "category": ["Sätze", "Getränke"]
+    },
+    {
+        "id": 173,
+        "lesson": 2,
+        "front": {
+            "german": "Das ist ein Buch."
+        },
+        "back": {
+            "mandarin": "这是书。",
+            "pinyin": "zhè shì shū."
+        },
+        "category": ["Sätze"]
+    },
+    {
+        "id": 174,
+        "lesson": 2,
+        "front": {
+            "german": "Das ist schwarzer Tee."
+        },
+        "back": {
+            "mandarin": "这是红茶。",
+            "pinyin": "zhè shì hóng chá."
+        },
+        "category": ["Sätze", "Getränke"]
+    },
+    {
+        "id": 175,
+        "lesson": 2,
+        "front": {
+            "german": "das Wasser"
+        },
+        "back": {
+            "mandarin": "水",
+            "pinyin": "shuǐ"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 176,
+        "lesson": 2,
+        "front": {
+            "german": "die Hand"
+        },
+        "back": {
+            "mandarin": "手",
+            "pinyin": "shǒu"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 177,
+        "lesson": 2,
+        "front": {
+            "german": "das Handy"
+        },
+        "back": {
+            "mandarin": "手机",
+            "pinyin": "shǒu jī"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 178,
+        "lesson": 2,
+        "front": {
+            "german": "schauen, ansehen"
+        },
+        "back": {
+            "mandarin": "看",
+            "pinyin": "kàn"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 179,
+        "lesson": 2,
+        "front": {
+            "german": "ein Buch lesen"
+        },
+        "back": {
+            "mandarin": "看书",
+            "pinyin": "kàn shū"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 180,
+        "lesson": 2,
+        "front": {
+            "german": "Handy schauen"
+        },
+        "back": {
+            "mandarin": "看手机",
+            "pinyin": "kàn shǒu jī"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 181,
+        "lesson": 2,
+        "front": {
+            "german": "wieder, noch einmal, erneut"
+        },
+        "back": {
+            "mandarin": "再",
+            "pinyin": "zài"
+        },
+        "category": ["Adverb"]
+    },
+    {
+        "id": 182,
+        "lesson": 2,
+        "front": {
+            "german": "Auf Wiedersehen!"
+        },
+        "back": {
+            "mandarin": "再见！",
+            "pinyin": "zài jiàn!"
+        },
+        "category": ["Sätze", "Verabschiedung"]
+    },
+    {
+        "id": 183,
+        "lesson": 2,
+        "front": {
+            "german": "3"
+        },
+        "back": {
+            "mandarin": "三",
+            "pinyin": "sān"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 184,
+        "lesson": 2,
+        "front": {
+            "german": "4"
+        },
+        "back": {
+            "mandarin": "四",
+            "pinyin": "sì"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 185,
+        "lesson": 2,
+        "front": {
+            "german": "der Schirm, der Regenschirm"
+        },
+        "back": {
+            "mandarin": "伞",
+            "pinyin": "sǎn"
+        },
+        "category": ["Nomen"]
+    },
+    {
+        "id": 186,
+        "lesson": 2,
+        "front": {
+            "german": "sterben"
+        },
+        "back": {
+            "mandarin": "死",
+            "pinyin": "sǐ"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 187,
+        "lesson": 2,
+        "front": {
+            "german": "der Fisch"
+        },
+        "back": {
+            "mandarin": "鱼",
+            "pinyin": "yú"
+        },
+        "category": ["Tiere", "Nomen"]
+    },
+    {
+        "id": 188,
+        "lesson": 2,
+        "front": {
+            "german": "der Regen"
+        },
+        "back": {
+            "mandarin": "雨",
+            "pinyin": "yǔ"
+        },
+        "category": ["Nomen", "Wetter"]
+    },
+    {
+        "id": 189,
+        "lesson": 2,
+        "front": {
+            "german": "haben, besitzen, vorhanden sein"
+        },
+        "back": {
+            "mandarin": "有",
+            "pinyin": "yǒu"
+        },
+        "category": ["Verben"]
+    },
+    {
+        "id": 190,
+        "lesson": 2,
+        "front": {
+            "german": "5"
+        },
+        "back": {
+            "mandarin": "五",
+            "pinyin": "wǔ"
+        },
+        "category": ["Zahlen"]
+    },
+    {
+        "id": 191,
+        "lesson": 2,
+        "front": {
+            "german": "ich, mir, mich"
+        },
+        "back": {
+            "mandarin": "我",
+            "pinyin": "wǒ"
+        },
+        "category": ["Pronomen", "Personen"]
+    },
+    {
+        "id": 192,
+        "lesson": 2,
+        "front": {
+            "german": "Ich esse Fisch."
+        },
+        "back": {
+            "mandarin": "我吃鱼。",
+            "pinyin": "wǒ chī yú."
+        },
+        "category": ["Sätze", "Essen"]
+    }
+]
